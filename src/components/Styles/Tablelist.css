@@ -1,0 +1,15 @@
+.checkbox-container{
+    margin: 5px;
+}
+
+.checkbox-container input{
+    width: 1.2rem;
+    height: 1.2rem;
+    cursor: pointer;
+}
+
+.action{
+    position: relative;
+    display: flex;
+    top: 10px;
+}
