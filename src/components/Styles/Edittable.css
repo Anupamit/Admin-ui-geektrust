@@ -1,0 +1,36 @@
+    /* .checkbox-container{
+        margin: 10px;
+    }
+    .checkbox-container input{
+        width: 1.1rem;
+        height: 1.1rem;
+    }
+
+    .save{
+        color: green
+    } */
+
+td input {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center; 
+}
+
+.save-btn {
+    color: green;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-size: medium;
+    margin-right: 16px;
+    cursor: pointer;
+}
+.cancel-btn {
+    color: red;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-size: medium;
+    margin-right: 16px;
+    cursor: pointer;
+}
